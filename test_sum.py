@@ -1,4 +1,4 @@
-// sum function
+# sum function
 
 from sum import sum
 
